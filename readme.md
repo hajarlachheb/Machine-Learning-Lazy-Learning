@@ -1,10 +1,3 @@
-### Team members:
-
-## Joël Haupt
-## Hajar Lachheb
-## Saurabh Nagarkar
-## Miquel Sugrañes Pàmies
-
 ### Running script for the first time
 
 # Open project’s root folder in terminal:
